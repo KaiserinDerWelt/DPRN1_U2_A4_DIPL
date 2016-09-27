@@ -1,0 +1,5 @@
+/home/diego-d/MonoProjects/Actividad4U3./Actividad4U3./obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego-d/MonoProjects/Actividad4U3./Actividad4U3./bin/Debug/Actividad4U3..exe.mdb
+/home/diego-d/MonoProjects/Actividad4U3./Actividad4U3./bin/Debug/Actividad4U3..exe
+/home/diego-d/MonoProjects/Actividad4U3./Actividad4U3./obj/x86/Debug/Actividad4U3..exe
+/home/diego-d/MonoProjects/Actividad4U3./Actividad4U3./obj/x86/Debug/Actividad4U3..exe.mdb
